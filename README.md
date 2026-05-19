@@ -77,8 +77,10 @@ jupyter notebook src/notebooks/main.ipynb
 
 ## Equipo de trabajo
 
-Melania Fondevilla Soler
-María Rodríguez Rodríguez
-William Christopher Walker Robertson
+```
+Melania Fondevilla Soler  
+María Rodríguez Rodríguez  
+William Christopher Walker Robertson  
+```
 
 Proyecto desarrollado en el marco del Bootcamp de Data Science 2026.
