@@ -21,16 +21,17 @@ Los dos datasets se fusionan por nombre de país en un `df_merged` de ~2.000 fil
 EDA_endangered_languages/
 │
 ├── src/
+│   ├── data/
+│   ├── img/
 │   ├── notebooks/
-│   │   └── main.ipynb          # Notebook principal con el análisis completo
-│   └── img/                    # Gráficos exportados
+│   └── utils/
 │
-├── Memoria.pdf                 # Memoria del proyecto
-├── Presentacion.pdf            # Presentación del proyecto
+├── main.ipynb
+├── Memoria.pdf
+├── Presentacion.pdf
+├── .gitignore
 └── README.md
 ```
-
----
 
 ## Hipótesis analizadas
 
